@@ -1,0 +1,8 @@
+# Ignorar todos los archivos y directorios
+*
+
+# No ignorar el archivo .gitignore
+!.gitignore
+
+# No ignorar el notebook
+!solucion-chest-xray.ipynb
